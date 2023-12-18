@@ -1,0 +1,75 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url("https://matheusniki.site/wp-content/uploads/2023/05/photo-1618022325802-7e5e732d97a1-min.jpg");
+  }
+
+  header {
+    background-color: #E00270;
+   
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+  }
+
+  #bry {
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;  }
+
+  img {
+    width: 60%;
+    height: auto;
+    display: block;
+    margin: 20px auto 10px; /* Adicionei um espaçamento inferior de 10 pixels */
+    border-radius: 10%;
+    border: 2px solid #9907D6;
+    margin-top: 70px;
+}
+
+  
+#joao {
+    text-align: center;
+    margin: 15px 0; /* Adicionei um espaçamento superior e inferior de 10 pixels */
+    font-size: 12px; /* Ajustei o tamanho da fonte para melhorar a legibilidade */
+    color: #fff;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 40px;
+}
+
+#joao2 {
+    text-align: center;
+    margin: 15px 0; /* Adicionei um espaçamento superior e inferior de 10 pixels */
+    font-size: 11px; /* Ajustei o tamanho da fonte para melhorar a legibilidade */
+    color: #fff;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 50px;
+}
+
+  #gabi {
+    background-image: linear-gradient(120deg, #FD0047 0%, #9907D6 100%);
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
+    margin: 10px auto; /* Adicionei um espaçamento superior e inferior de 10 pixels */
+    border-radius: 15px;
+    margin-top: 70px;
+}
+
+
+
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  } 
